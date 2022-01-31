@@ -1,0 +1,51 @@
+{
+  "eating": {
+    "height": 50,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 0,
+    "y": 0
+  },
+  "education": {
+    "height": 50,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 50,
+    "y": 0
+  },
+  "going_out": {
+    "height": 50,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 0,
+    "y": 50
+  },
+  "health": {
+    "height": 50,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 50,
+    "y": 50
+  },
+  "leisure": {
+    "height": 50,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 100,
+    "y": 0
+  },
+  "ov": {
+    "height": 50,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 150,
+    "y": 0
+  },
+  "shopping": {
+    "height": 50,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 100,
+    "y": 50
+  }
+}
